@@ -4,7 +4,9 @@ This version supports exact textual input as present in the website. (https://dh
 
 # An example input:
 District - Adilabad|ఆదిలాబాద్
+
 Mandal - Adilabad (Rural)|ఆదిలాబాద్ (రూరల్)
+
 Village - Ankapoor|అంకాపూర్
 
 Gives the list of survey numbers.
