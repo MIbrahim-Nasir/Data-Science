@@ -1,4 +1,4 @@
-# Project Description
+# Version 1
 This is the first version of the Land Status Survey No.s Search tool project using Web Scraping.
 
 This version supports exact textual input as present on the website. (https://dharani.telangana.gov.in/knowLandStatus)
