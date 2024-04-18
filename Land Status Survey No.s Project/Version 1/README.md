@@ -1,8 +1,8 @@
-This is the first version of the Land Status Survey No.s Search tool project using webscraping.
+This is the first version of the Land Status Survey No.s Search tool project using Web Scraping.
 
-This version supports exact textual input as present in the website. (https://dharani.telangana.gov.in/knowLandStatus)
+This version supports exact textual input as present on the website. (https://dharani.telangana.gov.in/knowLandStatus)
 
-**NOTE** : install selenium before execution - `pip install selenium
+**NOTE** : install selenium before execution using the command - `pip install selenium`
 
 # An example input:
 - District - Adilabad|ఆదిలాబాద్
@@ -13,4 +13,4 @@ This version supports exact textual input as present in the website. (https://dh
 
 Gives the list of survey numbers.
 
-No support for user input errors or user-firendly inputs
+No support for user input errors or user-friendly inputs
