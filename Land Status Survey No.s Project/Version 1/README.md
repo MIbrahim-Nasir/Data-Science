@@ -2,6 +2,8 @@ This is the first version of the Land Status Survey No.s Search tool project usi
 
 This version supports exact textual input as present in the website. (https://dharani.telangana.gov.in/knowLandStatus)
 
+**NOTE** : install selenium before execution - `pip install selenium
+
 # An example input:
 - District - Adilabad|ఆదిలాబాద్
 
