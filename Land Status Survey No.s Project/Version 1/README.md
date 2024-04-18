@@ -4,7 +4,7 @@ This version supports exact textual input as present on the website. (https://dh
 
 **NOTE** : install selenium before execution using the command - `pip install selenium`
 
-# An example input:
+## An example input:
 - District - Adilabad|ఆదిలాబాద్
 
 - Mandal - Adilabad (Rural)|ఆదిలాబాద్ (రూరల్)
